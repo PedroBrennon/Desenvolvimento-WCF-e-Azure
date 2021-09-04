@@ -1,0 +1,3 @@
+MVC = http://atazuremvc.azurewebsites.net
+API Paises = http://atazureapipaises.azurewebsites.net
+API Amigos = http://atazureapiamigos.azurewebsites.net

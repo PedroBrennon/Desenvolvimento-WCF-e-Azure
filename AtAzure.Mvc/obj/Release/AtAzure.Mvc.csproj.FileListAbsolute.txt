@@ -1,0 +1,267 @@
+H:\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\ApplicationInsights.config
+H:\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\AtAzure.Mvc.dll.config
+H:\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\AtAzure.Mvc.dll
+H:\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\AtAzure.Mvc.pdb
+H:\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\Antlr3.Runtime.dll
+H:\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\AtAzure.Api.Amigos.dll
+H:\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\AtAzure.Api.Paises.dll
+H:\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\Hyak.Common.dll
+H:\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\Microsoft.AI.Agent.Intercept.dll
+H:\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\Microsoft.AI.DependencyCollector.dll
+H:\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\Microsoft.AI.PerfCounterCollector.dll
+H:\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\Microsoft.AI.ServerTelemetryChannel.dll
+H:\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\Microsoft.AI.Web.dll
+H:\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\Microsoft.AI.WindowsServer.dll
+H:\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\Microsoft.ApplicationInsights.dll
+H:\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\Microsoft.Azure.Common.dll
+H:\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\Microsoft.Azure.Common.NetFramework.dll
+H:\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\Microsoft.Azure.KeyVault.Core.dll
+H:\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\Microsoft.Azure.Management.Storage.dll
+H:\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\Microsoft.Threading.Tasks.dll
+H:\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+H:\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\Microsoft.Threading.Tasks.Extensions.dll
+H:\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\Microsoft.Web.Infrastructure.dll
+H:\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\Microsoft.WindowsAzure.Configuration.dll
+H:\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\Microsoft.WindowsAzure.Storage.dll
+H:\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\Newtonsoft.Json.dll
+H:\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\System.Net.Http.Extensions.dll
+H:\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\System.Net.Http.Formatting.dll
+H:\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\System.Net.Http.Primitives.dll
+H:\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\System.Web.Helpers.dll
+H:\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\System.Web.Mvc.dll
+H:\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\System.Web.Optimization.dll
+H:\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\System.Web.Razor.dll
+H:\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\System.Web.WebPages.Deployment.dll
+H:\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\System.Web.WebPages.dll
+H:\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\System.Web.WebPages.Razor.dll
+H:\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\WebGrease.dll
+H:\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\System.Web.Http.dll
+H:\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\System.Web.Http.WebHost.dll
+H:\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\AtAzure.Api.Amigos.pdb
+H:\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\AtAzure.Api.Amigos.dll.config
+H:\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\AtAzure.Api.Paises.pdb
+H:\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\AtAzure.Api.Paises.dll.config
+H:\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\Hyak.Common.xml
+H:\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\Microsoft.Azure.Common.xml
+H:\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\Microsoft.Azure.Common.NetFramework.xml
+H:\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\Microsoft.Azure.KeyVault.Core.xml
+H:\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\Microsoft.Azure.Management.Storage.xml
+H:\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\Microsoft.Threading.Tasks.xml
+H:\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\Microsoft.Threading.Tasks.Extensions.xml
+H:\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+H:\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\Microsoft.WindowsAzure.Configuration.xml
+H:\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\Microsoft.WindowsAzure.Storage.pdb
+H:\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\Microsoft.WindowsAzure.Storage.xml
+H:\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\Newtonsoft.Json.xml
+H:\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\System.Net.Http.Extensions.xml
+H:\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\System.Net.Http.Formatting.xml
+H:\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\System.Net.Http.Primitives.xml
+H:\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\System.Web.Helpers.xml
+H:\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\System.Web.Mvc.xml
+H:\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\System.Web.Optimization.xml
+H:\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\System.Web.Razor.xml
+H:\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\System.Web.WebPages.xml
+H:\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\System.Web.WebPages.Deployment.xml
+H:\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\System.Web.WebPages.Razor.xml
+H:\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\Antlr3.Runtime.pdb
+H:\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\Microsoft.ApplicationInsights.xml
+H:\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\Microsoft.AI.DependencyCollector.xml
+H:\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\Microsoft.AI.ServerTelemetryChannel.xml
+H:\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\Microsoft.AI.WindowsServer.xml
+H:\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\Microsoft.AI.Web.xml
+H:\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\System.Web.Http.xml
+H:\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\System.Web.Http.WebHost.xml
+H:\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\pt-br\System.Web.Helpers.resources.dll
+H:\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\pt-br\System.Web.Mvc.resources.dll
+H:\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\pt-br\System.Web.Optimization.resources.dll
+H:\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\pt-br\System.Web.Razor.resources.dll
+H:\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\pt-br\System.Web.WebPages.resources.dll
+H:\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+H:\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+H:\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\pt-br\System.Web.Http.resources.dll
+H:\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\pt-br\System.Web.Http.WebHost.resources.dll
+H:\AtAzure (2)\AtAzure\AtAzure.Mvc\obj\Release\AtAzure.Mvc.csproj.App.config
+H:\AtAzure (2)\AtAzure\AtAzure.Mvc\obj\Release\AtAzure.Mvc.csprojResolveAssemblyReference.cache
+H:\AtAzure (2)\AtAzure\AtAzure.Mvc\obj\Release\AtAzure.Mvc.csproj.CoreCompileInputs.cache
+H:\AtAzure (2)\AtAzure\AtAzure.Mvc\obj\Release\AtAzure.Mvc.dll
+H:\AtAzure (2)\AtAzure\AtAzure.Mvc\obj\Release\AtAzure.Mvc.pdb
+G:\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\ApplicationInsights.config
+G:\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\AtAzure.Mvc.dll.config
+G:\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\AtAzure.Mvc.dll
+G:\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\AtAzure.Mvc.pdb
+G:\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\Antlr3.Runtime.dll
+G:\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\AtAzure.Api.Amigos.dll
+G:\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\AtAzure.Api.Paises.dll
+G:\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\Hyak.Common.dll
+G:\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\Microsoft.AI.Agent.Intercept.dll
+G:\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\Microsoft.AI.DependencyCollector.dll
+G:\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\Microsoft.AI.PerfCounterCollector.dll
+G:\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\Microsoft.AI.ServerTelemetryChannel.dll
+G:\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\Microsoft.AI.Web.dll
+G:\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\Microsoft.AI.WindowsServer.dll
+G:\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\Microsoft.ApplicationInsights.dll
+G:\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\Microsoft.Azure.Common.dll
+G:\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\Microsoft.Azure.Common.NetFramework.dll
+G:\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\Microsoft.Azure.KeyVault.Core.dll
+G:\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\Microsoft.Azure.Management.Storage.dll
+G:\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\Microsoft.Threading.Tasks.dll
+G:\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+G:\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\Microsoft.Threading.Tasks.Extensions.dll
+G:\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\Microsoft.Web.Infrastructure.dll
+G:\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\Microsoft.WindowsAzure.Configuration.dll
+G:\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\Microsoft.WindowsAzure.Storage.dll
+G:\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\Newtonsoft.Json.dll
+G:\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\System.Net.Http.Extensions.dll
+G:\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\System.Net.Http.Formatting.dll
+G:\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\System.Net.Http.Primitives.dll
+G:\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\System.Web.Helpers.dll
+G:\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\System.Web.Mvc.dll
+G:\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\System.Web.Optimization.dll
+G:\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\System.Web.Razor.dll
+G:\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\System.Web.WebPages.Deployment.dll
+G:\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\System.Web.WebPages.dll
+G:\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\System.Web.WebPages.Razor.dll
+G:\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\WebGrease.dll
+G:\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\System.Web.Http.dll
+G:\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\System.Web.Http.WebHost.dll
+G:\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\AtAzure.Api.Amigos.pdb
+G:\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\AtAzure.Api.Amigos.dll.config
+G:\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\AtAzure.Api.Paises.pdb
+G:\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\AtAzure.Api.Paises.dll.config
+G:\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\Hyak.Common.xml
+G:\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\Microsoft.Azure.Common.xml
+G:\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\Microsoft.Azure.Common.NetFramework.xml
+G:\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\Microsoft.Azure.KeyVault.Core.xml
+G:\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\Microsoft.Azure.Management.Storage.xml
+G:\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\Microsoft.Threading.Tasks.xml
+G:\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\Microsoft.Threading.Tasks.Extensions.xml
+G:\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+G:\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\Microsoft.WindowsAzure.Configuration.xml
+G:\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\Microsoft.WindowsAzure.Storage.pdb
+G:\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\Microsoft.WindowsAzure.Storage.xml
+G:\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\Newtonsoft.Json.xml
+G:\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\System.Net.Http.Extensions.xml
+G:\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\System.Net.Http.Formatting.xml
+G:\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\System.Net.Http.Primitives.xml
+G:\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\System.Web.Helpers.xml
+G:\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\System.Web.Mvc.xml
+G:\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\System.Web.Optimization.xml
+G:\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\System.Web.Razor.xml
+G:\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\System.Web.WebPages.xml
+G:\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\System.Web.WebPages.Deployment.xml
+G:\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\System.Web.WebPages.Razor.xml
+G:\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\Antlr3.Runtime.pdb
+G:\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\Microsoft.ApplicationInsights.xml
+G:\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\Microsoft.AI.DependencyCollector.xml
+G:\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\Microsoft.AI.ServerTelemetryChannel.xml
+G:\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\Microsoft.AI.WindowsServer.xml
+G:\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\Microsoft.AI.Web.xml
+G:\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\System.Web.Http.xml
+G:\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\System.Web.Http.WebHost.xml
+G:\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\pt-br\System.Web.Helpers.resources.dll
+G:\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\pt-br\System.Web.Mvc.resources.dll
+G:\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\pt-br\System.Web.Optimization.resources.dll
+G:\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\pt-br\System.Web.Razor.resources.dll
+G:\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\pt-br\System.Web.WebPages.resources.dll
+G:\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+G:\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+G:\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\pt-br\System.Web.Http.resources.dll
+G:\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\pt-br\System.Web.Http.WebHost.resources.dll
+G:\AtAzure (2)\AtAzure\AtAzure.Mvc\obj\Release\AtAzure.Mvc.csproj.App.config
+G:\AtAzure (2)\AtAzure\AtAzure.Mvc\obj\Release\AtAzure.Mvc.csprojResolveAssemblyReference.cache
+G:\AtAzure (2)\AtAzure\AtAzure.Mvc\obj\Release\AtAzure.Mvc.csproj.CoreCompileInputs.cache
+G:\AtAzure (2)\AtAzure\AtAzure.Mvc\obj\Release\AtAzure.Mvc.dll
+G:\AtAzure (2)\AtAzure\AtAzure.Mvc\obj\Release\AtAzure.Mvc.pdb
+D:\PEDRO\Visual Studio Projects\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\ApplicationInsights.config
+D:\PEDRO\Visual Studio Projects\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\AtAzure.Mvc.dll.config
+D:\PEDRO\Visual Studio Projects\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\AtAzure.Mvc.dll
+D:\PEDRO\Visual Studio Projects\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\AtAzure.Mvc.pdb
+D:\PEDRO\Visual Studio Projects\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\Antlr3.Runtime.dll
+D:\PEDRO\Visual Studio Projects\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\AtAzure.Api.Amigos.dll
+D:\PEDRO\Visual Studio Projects\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\AtAzure.Api.Paises.dll
+D:\PEDRO\Visual Studio Projects\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\Hyak.Common.dll
+D:\PEDRO\Visual Studio Projects\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\Microsoft.AI.Agent.Intercept.dll
+D:\PEDRO\Visual Studio Projects\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\Microsoft.AI.DependencyCollector.dll
+D:\PEDRO\Visual Studio Projects\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\PEDRO\Visual Studio Projects\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\PEDRO\Visual Studio Projects\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\Microsoft.AI.Web.dll
+D:\PEDRO\Visual Studio Projects\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\Microsoft.AI.WindowsServer.dll
+D:\PEDRO\Visual Studio Projects\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\Microsoft.ApplicationInsights.dll
+D:\PEDRO\Visual Studio Projects\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\Microsoft.Azure.Common.dll
+D:\PEDRO\Visual Studio Projects\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\Microsoft.Azure.Common.NetFramework.dll
+D:\PEDRO\Visual Studio Projects\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\Microsoft.Azure.KeyVault.Core.dll
+D:\PEDRO\Visual Studio Projects\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\Microsoft.Azure.Management.Storage.dll
+D:\PEDRO\Visual Studio Projects\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\PEDRO\Visual Studio Projects\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\Microsoft.Threading.Tasks.dll
+D:\PEDRO\Visual Studio Projects\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+D:\PEDRO\Visual Studio Projects\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\Microsoft.Threading.Tasks.Extensions.dll
+D:\PEDRO\Visual Studio Projects\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\Microsoft.Web.Infrastructure.dll
+D:\PEDRO\Visual Studio Projects\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\Microsoft.WindowsAzure.Configuration.dll
+D:\PEDRO\Visual Studio Projects\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\Microsoft.WindowsAzure.Storage.dll
+D:\PEDRO\Visual Studio Projects\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\Newtonsoft.Json.dll
+D:\PEDRO\Visual Studio Projects\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\System.Net.Http.Extensions.dll
+D:\PEDRO\Visual Studio Projects\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\System.Net.Http.Formatting.dll
+D:\PEDRO\Visual Studio Projects\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\System.Net.Http.Primitives.dll
+D:\PEDRO\Visual Studio Projects\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\System.Web.Helpers.dll
+D:\PEDRO\Visual Studio Projects\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\System.Web.Mvc.dll
+D:\PEDRO\Visual Studio Projects\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\System.Web.Optimization.dll
+D:\PEDRO\Visual Studio Projects\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\System.Web.Razor.dll
+D:\PEDRO\Visual Studio Projects\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\System.Web.WebPages.Deployment.dll
+D:\PEDRO\Visual Studio Projects\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\System.Web.WebPages.dll
+D:\PEDRO\Visual Studio Projects\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\System.Web.WebPages.Razor.dll
+D:\PEDRO\Visual Studio Projects\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\WebGrease.dll
+D:\PEDRO\Visual Studio Projects\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\System.Web.Http.dll
+D:\PEDRO\Visual Studio Projects\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\System.Web.Http.WebHost.dll
+D:\PEDRO\Visual Studio Projects\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\AtAzure.Api.Amigos.pdb
+D:\PEDRO\Visual Studio Projects\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\AtAzure.Api.Amigos.dll.config
+D:\PEDRO\Visual Studio Projects\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\AtAzure.Api.Paises.pdb
+D:\PEDRO\Visual Studio Projects\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\AtAzure.Api.Paises.dll.config
+D:\PEDRO\Visual Studio Projects\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\Hyak.Common.xml
+D:\PEDRO\Visual Studio Projects\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\Microsoft.Azure.Common.xml
+D:\PEDRO\Visual Studio Projects\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\Microsoft.Azure.Common.NetFramework.xml
+D:\PEDRO\Visual Studio Projects\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\Microsoft.Azure.KeyVault.Core.xml
+D:\PEDRO\Visual Studio Projects\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\Microsoft.Azure.Management.Storage.xml
+D:\PEDRO\Visual Studio Projects\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\PEDRO\Visual Studio Projects\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\Microsoft.Threading.Tasks.xml
+D:\PEDRO\Visual Studio Projects\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\Microsoft.Threading.Tasks.Extensions.xml
+D:\PEDRO\Visual Studio Projects\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+D:\PEDRO\Visual Studio Projects\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\Microsoft.WindowsAzure.Configuration.xml
+D:\PEDRO\Visual Studio Projects\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\Microsoft.WindowsAzure.Storage.pdb
+D:\PEDRO\Visual Studio Projects\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\Microsoft.WindowsAzure.Storage.xml
+D:\PEDRO\Visual Studio Projects\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\Newtonsoft.Json.xml
+D:\PEDRO\Visual Studio Projects\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\System.Net.Http.Extensions.xml
+D:\PEDRO\Visual Studio Projects\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\System.Net.Http.Formatting.xml
+D:\PEDRO\Visual Studio Projects\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\System.Net.Http.Primitives.xml
+D:\PEDRO\Visual Studio Projects\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\System.Web.Helpers.xml
+D:\PEDRO\Visual Studio Projects\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\System.Web.Mvc.xml
+D:\PEDRO\Visual Studio Projects\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\System.Web.Optimization.xml
+D:\PEDRO\Visual Studio Projects\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\System.Web.Razor.xml
+D:\PEDRO\Visual Studio Projects\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\System.Web.WebPages.xml
+D:\PEDRO\Visual Studio Projects\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\System.Web.WebPages.Deployment.xml
+D:\PEDRO\Visual Studio Projects\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\System.Web.WebPages.Razor.xml
+D:\PEDRO\Visual Studio Projects\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\Antlr3.Runtime.pdb
+D:\PEDRO\Visual Studio Projects\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\Microsoft.ApplicationInsights.xml
+D:\PEDRO\Visual Studio Projects\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\Microsoft.AI.DependencyCollector.xml
+D:\PEDRO\Visual Studio Projects\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\PEDRO\Visual Studio Projects\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\Microsoft.AI.WindowsServer.xml
+D:\PEDRO\Visual Studio Projects\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\Microsoft.AI.Web.xml
+D:\PEDRO\Visual Studio Projects\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\System.Web.Http.xml
+D:\PEDRO\Visual Studio Projects\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\System.Web.Http.WebHost.xml
+D:\PEDRO\Visual Studio Projects\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\pt-br\System.Web.Helpers.resources.dll
+D:\PEDRO\Visual Studio Projects\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\pt-br\System.Web.Mvc.resources.dll
+D:\PEDRO\Visual Studio Projects\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\pt-br\System.Web.Optimization.resources.dll
+D:\PEDRO\Visual Studio Projects\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\pt-br\System.Web.Razor.resources.dll
+D:\PEDRO\Visual Studio Projects\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\pt-br\System.Web.WebPages.resources.dll
+D:\PEDRO\Visual Studio Projects\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+D:\PEDRO\Visual Studio Projects\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+D:\PEDRO\Visual Studio Projects\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\pt-br\System.Web.Http.resources.dll
+D:\PEDRO\Visual Studio Projects\AtAzure (2)\AtAzure\AtAzure.Mvc\bin\pt-br\System.Web.Http.WebHost.resources.dll
+D:\PEDRO\Visual Studio Projects\AtAzure (2)\AtAzure\AtAzure.Mvc\obj\Release\AtAzure.Mvc.csproj.App.config
+D:\PEDRO\Visual Studio Projects\AtAzure (2)\AtAzure\AtAzure.Mvc\obj\Release\AtAzure.Mvc.csprojResolveAssemblyReference.cache
+D:\PEDRO\Visual Studio Projects\AtAzure (2)\AtAzure\AtAzure.Mvc\obj\Release\AtAzure.Mvc.csproj.CoreCompileInputs.cache
+D:\PEDRO\Visual Studio Projects\AtAzure (2)\AtAzure\AtAzure.Mvc\obj\Release\AtAzure.Mvc.dll
+D:\PEDRO\Visual Studio Projects\AtAzure (2)\AtAzure\AtAzure.Mvc\obj\Release\AtAzure.Mvc.pdb
